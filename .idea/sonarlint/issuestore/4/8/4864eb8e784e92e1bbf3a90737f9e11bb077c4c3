@@ -1,0 +1,43 @@
+
+\
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ßöşËúÿÿÿÿ8¡¯²ø.
+Hsquid:S3010"%Remove this assignment of "filePath".(¯¶¨ùÿÿÿÿ8×â‘üŒ.
+Hsquid:S3010"%Remove this assignment of "filePath".(—åóŒøÿÿÿÿ8±¹üŒ.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ìª¡ûÿÿÿÿ8¡¯²ø.
+fsquid:UnusedPrivateMethod™"4Remove this unused private "printCostMatrix" method.(¾üğ®øÿÿÿÿ8ØøëÜ.
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Àûå 8¡¯²ø.
+Xsquid:S2209"5Change this instance-reference to a static reference.(…ºØşÿÿÿÿ8µÇ¾üŒ.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¡¯²ø.
+usquid:S3776T"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ø’¯àúÿÿÿÿ8ú†áıŒ.
+Xsquid:S2209"5Change this instance-reference to a static reference.(…ºØşÿÿÿÿ8µÇ¾üŒ.
+asquid:UnusedPrivateMethod'"5Remove this unused private "printInputMatrix" method.(ÍôêÈ8“Â·³.
+\
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¡¯²ø.
+Xsquid:S2209"5Change this instance-reference to a static reference.(¯¶¨ùÿÿÿÿ8×â‘üŒ.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(óÁÕ‚ıÿÿÿÿ8¡¯²ø.
+hsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(˜Ñ¦z8¡¯²ø.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹«ö’
+Asquid:S1148P"#Use a logger to log this exception.(µ‰ûÜ8ú†áıŒ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÎ€³8¡¯²ø.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦˜†™øÿÿÿÿ8¡¯²ø.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(„ºİ—üÿÿÿÿ8¡¯²ø.
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(«‹¯ìøÿÿÿÿ8¡¯²ø.
+1squid:S1220""Move this file to a named package.
+isquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(®å{8¡¯²ø.
+jsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(¦ıœ”8¡¯²ø.
+Xsquid:S2209"5Change this instance-reference to a static reference.(—åóŒøÿÿÿÿ8Àƒ’üŒ.
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¡¯²ø.
+W
+squid:S106š"9Replace this use of System.out or System.err by a logger.(®ÈÚ·8¡¯²ø.
+csquid:S2095@"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ÿ±ğµ8ú†áıŒ.
+Ksquid:S3010"(Remove this assignment of "minimumCost".(…ºØşÿÿÿÿ8µÇ¾üŒ.
+fsquid:UnusedPrivateMethod"4Remove this unused private "printPathMatrix" method.(ÆÖ÷—ùÿÿÿÿ8ú†áıŒ.
+Ksquid:S3010"(Remove this assignment of "minimumCost".(…ºØşÿÿÿÿ8µÇ¾üŒ.
